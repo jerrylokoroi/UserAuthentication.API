@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Users\Create\" />
+    <Folder Include="Users\Get\" />
+    <Folder Include="Users\Services\" />
+    <Folder Include="Users\Update\" />
+    <Folder Include="Users\Profiles\" />
+  </ItemGroup>
+
+</Project>
